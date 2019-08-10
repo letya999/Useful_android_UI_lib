@@ -3,11 +3,11 @@
 ### Content
 
 * [Layout](#layout)
-* [Action Button](#infographic)
-* [ViewPager Title&Indicators]
-* [RecyclerView]
-* [Camera]
-* [Effects]
+* [Action Button](#action_button)
+* [ViewPager Title&Indicators](#viewpager_indicators/#viewpager_title)
+* [RecyclerView](#recyclerView)
+* [Camera](#camera)
+* [Effects](#effects)
 
 
 
