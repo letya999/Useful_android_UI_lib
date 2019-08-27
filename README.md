@@ -8,7 +8,7 @@
 * [RecyclerView](#recyclerView)
 * [Camera](#camera)
 * [Effects](#effects)
-* [Design] (#design)\
+* [Design] (#design)
 * [Bottom Navigation] (#bottom_navigation)
 * [Various Application] (#var_app)
 * [Interesting] (#interesting)
