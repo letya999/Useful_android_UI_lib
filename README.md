@@ -3,7 +3,7 @@
 ### Content
 
 * [Layout](#layout)
-* [Floating Action Button](#fab)
+* [FAB](#fab)
 * [ViewPager Title&Indicators](#viewpager_indicators/#viewpager_title)
 * [RecyclerView](#recyclerView)
 * [Camera](#camera)
