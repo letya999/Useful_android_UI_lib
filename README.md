@@ -61,9 +61,10 @@
 11. https://github.com/amulyakhare/TextDrawable This light-weight library provides images with letter/text like the Gmail app.
 
 ## Camera
-1. https://github.com/JasonMA606/MCamera Custom camera application by using SurfaceView, cardView. Camera Preview, Lock Camera Ratio, Take Picture, Card View, Constraint Layout.
-2. https://github.com/natario1/CameraView A well documented, high-level Android interface that makes capturing pictures and videos easy, addressing all of the common issues and needs. Real-time filters, gestures, watermarks, frame processing, output of any size. 
-3. https://github.com/CameraKit/camerakit-android Library for Android Camera 1 and 2 APIs. Massively increase stability and reliability of photo and video capture on all Android devices.
+1. https://github.com/letya999/CameraViewPlus Forked from Google's CameraView, but solved bugs and added features.
+2. https://github.com/JasonMA606/MCamera Custom camera application by using SurfaceView, cardView. Camera Preview, Lock Camera Ratio, Take Picture, Card View, Constraint Layout.
+3. https://github.com/natario1/CameraView A well documented, high-level Android interface that makes capturing pictures and videos easy, addressing all of the common issues and needs. Real-time filters, gestures, watermarks, frame processing, output of any size. 
+4. https://github.com/CameraKit/camerakit-android Library for Android Camera 1 and 2 APIs. Massively increase stability and reliability of photo and video capture on all Android devices.
 
 ## Animation
 1. https://github.com/balysv/material-ripple Android L Ripple effect wrapper for Views.
