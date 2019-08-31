@@ -7,13 +7,13 @@
 * [AR](#ar)
 * [Bottom Navigation](#bottom_navigation)
 * [Bottom Sheet](#bottom_sheet)
-* [Calendar&Clock](#calendar/#clock)
+* [Calendar](#calendar)
 * [Camera](#camera)
-* [Charts&Graphs](#charts/graphs)
+* [Graphs](#graphs)
 * [Design](#design)
 * [Dialog](#dialog)
 * [FAB](#fab)
-* [First time training](#first_time)
+* [First start](#first_start)
 * [Gestures](#gestures)
 * [Input methods](#input)
 * [Interesting](#interesting)
@@ -24,7 +24,7 @@
 * [SearchView](#search_view)
 * [Themes](#themes)
 * [Toast](#toast)
-* [ViewPager Title&Indicators](#viewpager_indicators/#viewpager_title)
+* [ViewPager](#viewpager)
 
 ## Animation
 1. https://github.com/balysv/material-ripple Android L Ripple effect wrapper for Views.
@@ -59,7 +59,7 @@
 1. https://github.com/Flipboard/bottomsheet Android component which presents a dismissible view from the bottom of the screen.
 2. https://github.com/li-xiaojun/DragPanel A nice vertical drag layout, a bit like BottomSheet, but with strong customization.
 
-## Calendar&Clock
+## Calendar
 1. https://github.com/Mulham-Raee/Horizontal-Calendar A material horizontal calendar view for Android based on RecyclerView.
 2. https://github.com/lypeer/GoogleClock An imitation of the clock in Google I/O 2016 . Almost all of the animations and images in it are made by the SVG.
 3. https://github.com/iwgang/CountdownView Android countdown view，use canvas draw，supports multiple styles.
@@ -71,7 +71,7 @@
 3. https://github.com/natario1/CameraView A well documented, high-level Android interface that makes capturing pictures and videos easy, addressing all of the common issues and needs. Real-time filters, gestures, watermarks, frame processing, output of any size. 
 4. https://github.com/CameraKit/camerakit-android Library for Android Camera 1 and 2 APIs. Massively increase stability and reliability of photo and video capture on all Android devices.
 
-## Charts&Graphs
+## Graphs
 1. https://github.com/diogobernardino/WilliamChart Android Library to rapidly develop attractive and insightful charts in android applications.
 
 ## Design
@@ -95,7 +95,7 @@
 6. https://github.com/thientvse/CircleMenu Circle menu animation, timeline view, custom layout.
 
 
-## First time training
+## First start
 1. https://github.com/eoinfogarty/Onboarding A beautiful way to introduce users to your app.
 2. https://github.com/TangoAgency/material-intro-screen Inspired by Heinrich Reimer Material Intro and developed with love from scratch.
 3. https://github.com/KeepSafe/TapTargetView An implementation of tap targets from the Material Design guidelines for feature discovery.
@@ -167,7 +167,7 @@
 ## Toast
 1. https://github.com/Muddz/StyleableToast An Android library that takes the standard toast to the next level with many styling options.
 
-## ViewPager Title&Indicators
+## ViewPager
 1. https://github.com/ogaclejapan/SmartTabLayout A custom ViewPager title strip which gives continuous feedback to the user when scrolling.
 2. https://github.com/siralam/LoopingViewPager A ViewPager and PagerAdapter combination that support auto scroll, infinite loop and page indicators.
 3. https://github.com/florent37/MaterialViewPager A Material Design ViewPager easy to use library.
