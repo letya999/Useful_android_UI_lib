@@ -13,7 +13,6 @@
 * [Design](#design)
 * [Dialog](#dialog)
 * [FAB](#fab)
-* [First start](#First start)
 * [Gestures](#gestures)
 * [Input methods](#input)
 * [Interesting](#interesting)
@@ -24,6 +23,7 @@
 * [SearchView](#search_view)
 * [Themes](#themes)
 * [Toast](#toast)
+* [Training](#training)
 * [ViewPager](#viewpager)
 
 ## Animation
@@ -94,16 +94,6 @@
 5. https://github.com/ogaclejapan/ArcLayout A very simple arc layout library for Android.
 6. https://github.com/thientvse/CircleMenu Circle menu animation, timeline view, custom layout.
 
-
-## First start
-1. https://github.com/eoinfogarty/Onboarding A beautiful way to introduce users to your app.
-2. https://github.com/TangoAgency/material-intro-screen Inspired by Heinrich Reimer Material Intro and developed with love from scratch.
-3. https://github.com/KeepSafe/TapTargetView An implementation of tap targets from the Material Design guidelines for feature discovery.
-4. https://github.com/TakuSemba/Spotlight Android Library that lights items for tutorials or walk-throughs etc...
-5. https://github.com/mapleqin/ProductTour ProductTour is android sample project implementing a parallax effect welcome page using PageTransformer, similar to the one found in Google's app like Sheet, Drive, Docs...
-6. https://github.com/florent37/TutoShowcase A simple and Elegant Showcase view for Android.
-7. https://github.com/florent37/ViewTooltip A fluent tooltip for Android.
-
 ## Gestures
 1. https://github.com/TradeMe/Covert Covert is an Android library for Material Swipe Actions within a RecyclerView.
 2. https://github.com/anzaizai/EasySwipeMenuLayout A sliding menu library not just for recyclerview, but all views.
@@ -166,6 +156,15 @@
 
 ## Toast
 1. https://github.com/Muddz/StyleableToast An Android library that takes the standard toast to the next level with many styling options.
+
+## Training
+1. https://github.com/eoinfogarty/Onboarding A beautiful way to introduce users to your app.
+2. https://github.com/TangoAgency/material-intro-screen Inspired by Heinrich Reimer Material Intro and developed with love from scratch.
+3. https://github.com/KeepSafe/TapTargetView An implementation of tap targets from the Material Design guidelines for feature discovery.
+4. https://github.com/TakuSemba/Spotlight Android Library that lights items for tutorials or walk-throughs etc...
+5. https://github.com/mapleqin/ProductTour ProductTour is android sample project implementing a parallax effect welcome page using PageTransformer, similar to the one found in Google's app like Sheet, Drive, Docs...
+6. https://github.com/florent37/TutoShowcase A simple and Elegant Showcase view for Android.
+7. https://github.com/florent37/ViewTooltip A fluent tooltip for Android.
 
 ## ViewPager
 1. https://github.com/ogaclejapan/SmartTabLayout A custom ViewPager title strip which gives continuous feedback to the user when scrolling.
