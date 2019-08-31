@@ -13,7 +13,7 @@
 * [Design](#design)
 * [Dialog](#dialog)
 * [FAB](#fab)
-* [First start](#first_start)
+* [First start](#First start)
 * [Gestures](#gestures)
 * [Input methods](#input)
 * [Interesting](#interesting)
